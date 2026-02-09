@@ -6,7 +6,7 @@ Python • Linux • Networking
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/Youssef-Amjad-SOC/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Youssef) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youssefamjad12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/Youssef-Amjad-SOC/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youssefamjad12@gmail.com)
 
 # 💻 Tech Stack:
 
